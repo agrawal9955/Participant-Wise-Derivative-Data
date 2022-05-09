@@ -1,0 +1,7 @@
+gspread
+xlrd
+xlwt
+oauth2client
+gspread_formatting
+lxml
+nsepy

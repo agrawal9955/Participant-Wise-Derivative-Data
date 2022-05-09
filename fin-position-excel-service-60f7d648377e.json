@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fin-position-excel-service",
+  "private_key_id": "60f7d648377edd15c9b911dee42405c751eb3190",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJ9bMgn+5HIJPu\nusMD76WOQluYuzh1iIvGZZNTwF2V24Br+iJLiNCzhVRQbYVZbEvscTNq3MftbqTQ\np8ewzfzjRcXAUAcW16Gd8jQK8hscAbsVxeD2+9wbwQ4/6ZONZX+Xn5ijSn3siZNN\nriTjs6DSdyUy2ayxRX8tsnLjKSLTj6GMULUz74OFuvgTy6wVMqh39O7deJRRlhk6\nC1PX+q2JNAZZKVXVtA+u55G0uoCHR2Ok9yosJaOvfJ1dF8rwmI0SbVes9brWJtTS\n2ATdKgqYvZBFTA8vK1wl9sCM19mOLJBRNfr8QV2or46S4gxNJeGPbibOf3VKi/os\ntLQjnJ1zAgMBAAECggEAVVJ7qGtYx+zwApodfKK4r1bCis6B5knXP2y3Ztks0Hxp\nD3UgGwhEn6tS+R2kCijyFISoo9t9jYZClDJl74C+96eJCZvlutVDns5uBTfOkzD6\nAJNWXRH/piwUIJVGNKTuWDjhTA9TDuT6egV56UcAyRnz+b0zs7r4JW6wEd9VqsnR\nP73jgmzxTLcsGPZ92KHZeQ1Cuq8VHZ44UnOj1cSPL9rb2KOs3OdV8QkILj8mVMAA\n6cNj/YepbzfjZBvctX5LAALdXGScFLYiol88dqgAZwvHQheDErCHAm3pNtbN3QzH\nMhioRoLg1Nw0FPtalN5kEHNXRPosyhSH0j2pZ83LMQKBgQD25KxmC9xcoCHIQzmh\nm8ozHquLHt4sC+oe63xym8Cyp3pzzPAediIB/9VdQSdrPHaFbNM3SBn5eHb1r02P\nv565Q0Id14YBsGB9aY4rzwX63ohnUzJrK2QDTQVY5bIG32WhPu3w56ysd2GtlgA8\nsK+vgSkt/xhUET885ODcKsLsAwKBgQDRaLws8XkDenlSbkGjl6GuZKg7pkmsM3aV\nFrnohaHA4v294R7bFUkyLeGEj7BQV9Oc1CoqFygEq45qu8pvskNtDhp0a0AcZqNw\nZN/q2tlGMzWDWtKy51ZAjchXhCkYHgY0+jJhtoA33kwnrnBuQxghp5tWVL2bCcWo\n/gMHjXSl0QKBgQDhLsRG9r5wBOWLADWKPst3QJv5cZf12JAaz3FcHs7so3A+Okcv\noVN3O13hhlFrr2PyYcVrgGmgbc0iXFeDqqQcGUouaaqh07rN5/5x2op7u4fxpaIw\nuQypLhCYejebqRnKrdjbhpKpYuFGL6/bqtMyYb2rZCVOV8Szx5WHecD6/QKBgQCR\nIF/BWfw+/+MS0Jym7pA7l0DMThsiv2vAOUbQMcR/NBEcRecneCIJJ6jyQM61b5iV\nSKiMEQ5H5klGCS1rqYR3EN4errF4vV0pqI9SaSdJMnY0uX3qRM8O3/PnSw1bzHsK\nvhaqh1tm3KW0nn0GvXL85/aMpx/cUbJtwtSAqHUd8QKBgQDJoyii9kF9SVlyK36k\n5JlCMljfKfnAldig0wCUNOF3bl+x5CXYrVxMbTzMvsR+VYKqTu2Wny+eJoXWBd+o\nb8a///JcbfElKCmk1HPkBk26AHUaewfKGylxJcg6F9BVBAlWL4XfFSI111h1i6Om\nLn/Kt6DKnKpw+UKCZc9BQX9+6g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-sheet-access@fin-position-excel-service.iam.gserviceaccount.com",
+  "client_id": "108975222377030714747",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-sheet-access%40fin-position-excel-service.iam.gserviceaccount.com"
+}
